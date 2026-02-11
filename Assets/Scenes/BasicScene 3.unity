@@ -2149,7 +2149,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   usernameField: {fileID: 562365508}
   passwordField: {fileID: 1536502631}
-  sceneToLoad: BasicScene 3
+  sceneToLoad: SampleScene
   correctUsername: Hello
   correctPassword: Hello123
   feedbackText: {fileID: 2071061830}
